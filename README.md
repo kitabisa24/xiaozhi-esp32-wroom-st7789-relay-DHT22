@@ -1,4 +1,4 @@
-# XiaoZhi ESP32-WROOM ST7789 – Arsiparis Cimahi
+# XiaoZhi ESP32-WROOM ST7789 – Relay - DHT22
 
 Firmware XiaoZhi untuk ESP32-WROOM dengan:
 
